@@ -3,6 +3,8 @@
 Praticando Desing de aplicação de ponta a ponta.<br/>
 Aplicação utilizando Figma, TypeScript, Storybook e outras dependencias como tailwind e radix!
 
+## :heavy_check_mark: Resultado: https://lab-design-system-one.vercel.app/
+
 <p align="center">
    <img src="./images/Figma.png" width="600" title="3 text">
 </p>
